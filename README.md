@@ -1,5 +1,4 @@
 <div align="center">
-  
 
 
   <h2 align="center">Syed Maaz - Portfolio Website</h2>
